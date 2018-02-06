@@ -3,7 +3,7 @@
 Project builds custom burgers with full user authentication and latest react features. 
 
 ### Project uses
-  - Firebase
+  - Firebase - in the actions folder add your API key for firebase 
   - Redux 
   - create-react-app
   
