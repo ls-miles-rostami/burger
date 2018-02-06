@@ -1,5 +1,7 @@
 # React Redux Firebase application
 
+See demo here: http://absorbing-pail.surge.sh/
+
 Project builds custom burgers with full user authentication and latest react features. 
 
 ### Project uses
